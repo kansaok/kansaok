@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Test](www.google.com)<br><br>- 🌱 I’m currently learning **Golang**<br><br>- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)<br><br>- 📝 I regularly write articles on [www.google.com](www.google.com)<br><br>- 💬 Ask me about **Python, Laravel, Angular, Golang**<br><br>- 📫 How to reach me **ganteng@gmail.com**<br><br>- 📄 Know about my experiences [www.google.com](www.google.com)<br>
+- 🌱 I’m currently learning **Golang**<br><br>- 👨‍💻 All of my projects are available at [My Projects](https://kansaok.my.id/#projects)<br><br>- 📝 I regularly write articles on [DEV.TO](https://dev.to/kansaok)<br><br>- 💬 Ask me about **Python, Laravel, Angular, Golang**<br><br>- 📫 How to reach me **ukan.job@gmail.com**<br><br>- 📄 Know about my experiences [My Experinences](https://kansaok.my.id/#experience)<br>
 
 
 ## 🌐 Socials:
@@ -19,8 +19,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kansaok&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@sao97) 
+  ## 💰 You can support me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sao97)
+  [![Saweria](https://camo.githubusercontent.com/101f18383f5b93bf9b37ff36aeb03f74e2d1e61e0064d3e6c39ac0e469a8b723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534157455249412d6f72616e67653f7374796c653d666f722d7468652d6261646765)](https://saweria.co/kansaok) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
